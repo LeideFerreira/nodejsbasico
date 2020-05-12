@@ -1,0 +1,26 @@
+{
+  "name": "nodejsbasico",
+  "version": "1.0.0",
+  "description": "Repositório para aplicação do curso do Skylab sobre nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeideFerreira/nodejsbasico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeideFerreira/nodejsbasico/issues"
+  },
+  "homepage": "https://github.com/LeideFerreira/nodejsbasico#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
